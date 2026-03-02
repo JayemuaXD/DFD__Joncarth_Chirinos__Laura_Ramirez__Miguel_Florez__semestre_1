@@ -1,0 +1,38 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+107
+'Bienvenido Usuario Ingrese el costo del material solicitado y si solicito transporte respondiendo si o no'
+5
+1
+19
+costo , transporte 
+7
+1
+1
+17
+Transporte = "Si"
+6
+1
+6
+CostoF
+10
+costo + 25
+13
+6
+1
+6
+CostoF
+5
+costo
+13
+4
+1
+42
+"El costo total de tu factura es ", CostoF
+1

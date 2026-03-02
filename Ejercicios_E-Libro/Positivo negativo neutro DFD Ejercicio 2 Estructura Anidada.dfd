@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+86
+'Bienvenido Usuario Ingrese un numero para verificar si es Positivo Negativo o Neutro'
+5
+1
+6
+numero
+7
+1
+1
+8
+numero>0
+4
+1
+23
+'El numero es Positivo'
+13
+7
+1
+1
+8
+numero<0
+4
+1
+23
+'El Numero es Negativo'
+13
+4
+1
+21
+'El numero es Neutro'
+13
+13
+4
+1
+30
+'Muchas gracias vuelva pronto'
+1

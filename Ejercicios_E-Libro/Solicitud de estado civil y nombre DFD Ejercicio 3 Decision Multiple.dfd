@@ -1,0 +1,88 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+128
+'Bienvenido al sistema de deteccion de estado civil ingrese su nombre y la inicial de su estado civil para mostrar un resultado'
+5
+1
+14
+nombre, estado
+7
+0
+1
+12
+estado = "S"
+7
+0
+1
+12
+estado = "C"
+7
+0
+1
+13
+estado = "V" 
+7
+0
+1
+12
+estado = "U"
+7
+0
+1
+12
+estado = "O"
+13
+6
+1
+6
+estado
+6
+"Otro"
+13
+13
+6
+1
+6
+estado
+13
+"Union Libre"
+13
+13
+6
+1
+6
+estado
+7
+"Viudo"
+13
+13
+6
+1
+6
+estado
+8
+"Casado"
+13
+13
+6
+1
+6
+estado
+9
+"Soltero"
+13
+4
+1
+38
+nombre, " su estado civil es ", estado
+4
+1
+13
+"Hasta luego"
+1
