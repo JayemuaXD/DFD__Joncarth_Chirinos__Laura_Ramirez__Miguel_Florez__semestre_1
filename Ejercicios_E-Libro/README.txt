@@ -1,4 +1,4 @@
-Ejercicios 25/02/2026 - DFD
+Ejercicios E-Libro DFD
 
 Integrantes
 
@@ -7,4 +7,4 @@ Integrantes
 - Miguel Angel Florez Hernandez – ID: 1107547
 
 Tema
-Estructuras condicionales en Diagramas de Flujo y condiciones anidadas
+Estructuras en Diagramas de Flujo
